@@ -11,9 +11,9 @@
 - que l'équipe puisse refaire l'analyse seule (soit les former, soit qqch de clic bouton)
 ## Moyens à mettre en place :
 - identifier les outils tiers nécessaires pour réaliser le projet (avec leur version)
-- outils pour : documenter, communiquer, faire le comte-rendu, empaqueter l'analyse et les outils
+- outils pour : documenter, communiquer, faire le compte-rendu, empaqueter l'analyse et les outils
 - choisir les ressources de calculs : en local, IFB, genotoul (+ de place mais + de monde-)
-## on réfléchi par ordre chronoligique de développement :
+## on réfléchi par ordre chronologique de développement :
 
  
  
